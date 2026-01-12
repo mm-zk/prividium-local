@@ -120,3 +120,4 @@ Your machine must allow access to following ports:
 Now you can login to admin panel of the first chain (port 3000) or second chain (port 3300).
 
 
+You might want to use Google Chrome - as Firefox complains a lot about the invalid certificates.
